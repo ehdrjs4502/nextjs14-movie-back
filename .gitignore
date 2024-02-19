@@ -1,0 +1,5 @@
+# dotenv 파일
+.env
+
+# dependencies
+/node_modules
